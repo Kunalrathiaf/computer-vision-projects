@@ -1,4 +1,4 @@
-# 🧠 Computer Vision Projects with OpenCV
+# Computer Vision Projects with OpenCV
 
 This repository contains implementations of three key computer vision algorithms using OpenCV in Python:
 
@@ -8,7 +8,7 @@ This repository contains implementations of three key computer vision algorithms
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Python 3.x
 - OpenCV
@@ -17,38 +17,38 @@ This repository contains implementations of three key computer vision algorithms
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 
 ---
 
-## 📌 Project Descriptions
+## Project Descriptions
 
 ### 1. SIFT Keypoint Detection and Matching
 Detects keypoints using the SIFT algorithm and matches them using a brute-force matcher with a ratio test. The result shows correspondences between two images.
 
-> 📂 File: `sift_matching.py`
+> File: `sift_matching.py`
 
 ### 2. RANSAC for Outlier Removal
 Applies RANSAC to filter out incorrect matches from SIFT and estimates a homography (perspective transformation) between two images.
 
-> 📂 File: `ransac_filtering.py`
+> File: `ransac_filtering.py`
 
 ### 3. Harris Corner Detection
 Detects corner points in a grayscale image using the Harris algorithm and visualizes them in red.
 
-> 📂 File: `harris_corners.py`
+> File: `harris_corners.py`
 
 ---
 
-## 🖼️ Sample Results
+## Sample Results
 
-> 🔳 Add screenshots of output visualizations here.  
+> Add screenshots of output visualizations here.  
 > Use `plt.savefig()` or take screenshots and upload them.
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone this repository:
 ```bash
